@@ -1,0 +1,8 @@
+cd video-game-sales-analysis-cpp/analysis-RBT
+cd video-game-sales-analysis-cpp/analysis-BST
+
+g++ src/solution_RBT_tree.cpp -o bin/solution_RBT
+g++ src/solution_BST_tree.cpp -o bin/solution_BST
+
+./bin/solution_BST data/VideoGames.csv 
+./bin/solution_RBT data/VideoGames.csv 
