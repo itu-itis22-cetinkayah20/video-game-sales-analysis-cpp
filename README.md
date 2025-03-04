@@ -60,9 +60,9 @@ This project is designed to analyze video game sales data using different tree d
 
 1. **Clone the repository**
         - You can clone the repository using git or download it from Code, Download ZIP
-        ```sh
-        git clone https://github.com/itu-itis22-cetinkayah20/video-game-sales-analysis-cpp.git
-        ```
+```sh
+git clone https://github.com/itu-itis22-cetinkayah20/video-game-sales-analysis-cpp.git
+```
 
 2. **Build the project**
 ```sh
