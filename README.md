@@ -54,7 +54,7 @@ This project is designed to analyze video game sales data using different tree d
 ### **Prerequisites**
 
 - **C++ Compiler**: Ensure you have a C++ compiler installed (e.g., g++, clang).
-- **Docker**: Docker is not required for this project but it is better to use. Make sure that Docker is installed in your system. Reopen the project in docker container when vscode offers to ensure that tests work. 
+- **Docker**: Docker is not required for this project but it is better to use.
 
 ### **Installation**
 
